@@ -1,6 +1,8 @@
 # AIM Oscar Server
 
 Run your own AIM chat server, managing users and groups. Hook up a vintage client and get chatty.
+Heres group
+https://www.roblox.com/groups/15486577/Club-Boogs#!/about
 
 ## Goals
 
